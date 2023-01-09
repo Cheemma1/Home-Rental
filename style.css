@@ -12,7 +12,7 @@ html{
 
 .preloader{
     background: #0A142F url(images/logo\ 1.png) no-repeat center center;
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
     position: fixed;
     z-index: 100;

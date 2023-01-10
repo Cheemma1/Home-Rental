@@ -57,9 +57,7 @@ header{
     margin-right: 1.6rem;
   }
  
-
-
-  .hero{
+ .hero{
     width: 100%;
     padding: 0.6rem;
   }
@@ -149,9 +147,7 @@ header{
 .logo img{
     margin: 0 auto;
 } 
-
-
-nav{
+  nav{
   padding: 1rem;
   margin: 0 auto;
   align-items: center;
@@ -373,13 +369,6 @@ justify-content: flex-start;
   margin: 0;
   padding: 0.4rem  0;
 }
-
-
-
-
-
-
-
 }
 @media screen and (max-width:600px){
   .section2-content h3{
